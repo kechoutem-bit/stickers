@@ -1,0 +1,186 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Why Prices Do That | Bumper stickers about car money</title>
+<meta name="description" content="Funny, clean bumper stickers about car payments, dealer fees and insurance bills. 11 x 3 in, $9.99, printed in the US.">
+<meta property="og:title" content="Bumper stickers for people who read the fine print">
+<meta property="og:description" content="Dry car-money jokes in road-sign yellow. 11 x 3 in, $9.99.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://kechoutem-bit.github.io/stickers/">
+<meta property="og:image" content="https://kechoutem-bit.github.io/stickers/img/hero.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="img/mark.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Overpass:wght@400;600;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<!--
+THESIS: The store is a drive. Highway signage carries every word, and the yellow stickers are the only
+yellow on the road, so the jokes pop. Refuses the white-grid sticker shop and the dark-neon merch page.
+OWN-WORLD: asphalt ground; MUTCD sign colors used for their real jobs: green guide = headlines and exits,
+white regulatory = price and size, blue services = shipping and returns, brown attraction = the channel.
+Overpass (Highway Gothic lineage). Retroreflective white inset borders, distance-sign counts, lane-dash dividers.
+STORY: A viewer from YouTube sees the joke on a real bumper, sees $9.99 and 11 x 3 in, flips through more
+jokes on the car, picks an exit, buys on the Printify product page.
+FIRST VIEWPORT: gantry nav with exit signs; left a tall green guide sign (H1, sub, "Shop the stickers");
+right the bumper photo with a live sticker swap ("Next joke", "Buy this one"); white price sign on the
+photo's corner.
+FORM: grounded list #4 (highway sign system); seed key 6e2479cb. Raises: one signal color per job, nothing
+decorative (jackfield); stickers slap down, no soft fades (paste-up).
+FINISH: unreviewed and undocumented is unfinished; this build ends with the finish review, the verdict, DESIGN.md, and every shipping raster carrying its provenance
+-->
+<a class="skip" href="#money">Skip to the stickers</a>
+
+<header class="gantry">
+  <div class="gantry-in">
+    <a class="brand" href="#top" aria-label="Why Prices Do That, top of page">
+      <img src="img/mark.png" alt="" width="48" height="48">
+      <span>Why Prices Do That</span>
+    </a>
+    <nav aria-label="Sticker groups">
+      <ul class="exits">
+        <li><a class="sign guide exit-link" href="#money">Car money <b class="n" data-count="money"></b></a></li>
+        <li><a class="sign guide exit-link" href="#family">New drivers <b class="n" data-count="family"></b></a></li>
+        <li><a class="sign guide exit-link" href="#road">Road life <b class="n" data-count="road"></b></a></li>
+        <li><a class="sign guide exit-link" href="#custom">Your own words <b class="n" data-count="custom"></b></a></li>
+      </ul>
+    </nav>
+  </div>
+</header>
+
+<!-- Turn on only after the Printify free-shipping discount exists (brainstorm Q21 item 6): delete "hidden". -->
+<p class="promo" hidden><span class="sign reg">Free shipping on 3 or more stickers</span></p>
+
+<main id="top">
+  <section class="hero">
+    <div class="sign guide hero-sign">
+      <h1>Bumper stickers for people who read the fine print.</h1>
+      <p class="sub">Dry car-money jokes in road-sign yellow. From the YouTube channel Why&nbsp;Prices&nbsp;Do&nbsp;That.</p>
+      <a class="btn btn-light" href="#money">
+        Shop the stickers
+        <svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v15m-6-6 6 6 6-6"/></svg>
+      </a>
+    </div>
+
+    <figure class="bumper" aria-label="A sticker on the back of a car">
+      <div class="photo">
+        <div class="frame">
+          <img class="car" src="img/hero.jpg" width="1800" height="1004"
+               alt="The back of a grey SUV in a driveway with a yellow bumper sticker on the bumper.">
+          <img class="on-car" id="onCar" src="img/s/30.webp" alt="" hidden>
+        </div>
+      </div>
+      <div class="sign reg price-sign" aria-label="Price: $9.99 each. Size: 11 by 3 inches.">
+        <span class="small">Each sticker</span>
+        <strong>$9.99</strong>
+        <span class="small">11 × 3 in</span>
+      </div>
+      <figcaption class="try">
+        <p class="now" aria-live="polite">On the car: <b id="nowTitle">84 Months Left Please Don't Hit Me</b></p>
+        <div class="try-btns">
+          <button class="btn btn-dark" id="nextJoke" type="button">
+            Next joke
+            <svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><path d="M4 12h15m-6-6 6 6-6 6"/></svg>
+          </button>
+          <a class="btn btn-green" id="buyNow" href="#">Buy this one</a>
+        </div>
+      </figcaption>
+    </figure>
+  </section>
+
+  <div class="lane" aria-hidden="true"></div>
+
+  <section class="exit" id="money" aria-labelledby="h-money">
+    <header class="sign guide exit-sign"><h2 id="h-money">Car money</h2>
+      <p>Payments, loans, dealer fees, and the insurance bill.</p></header>
+    <ul class="grid" data-exit="money"></ul>
+  </section>
+
+  <section class="exit" id="family" aria-labelledby="h-family">
+    <header class="sign guide exit-sign"><h2 id="h-family">New drivers &amp; family</h2>
+      <p>For the new driver, the tiny human, and the dog in the back.</p></header>
+    <ul class="grid" data-exit="family"></ul>
+  </section>
+
+  <section class="exit" id="road" aria-labelledby="h-road">
+    <header class="sign guide exit-sign"><h2 id="h-road">Road life</h2>
+      <p>Traffic, potholes, the DMV, and the left lane.</p></header>
+    <ul class="grid" data-exit="road"></ul>
+  </section>
+
+  <section class="exit" id="custom" aria-labelledby="h-custom">
+    <header class="sign guide exit-sign"><h2 id="h-custom">Your own words</h2>
+      <p>Put a name or your own line on the sign. You type it on the product page.</p></header>
+    <ul class="grid" data-exit="custom"></ul>
+  </section>
+
+  <div class="lane" aria-hidden="true"></div>
+
+  <section class="services" aria-labelledby="h-ship">
+    <div class="sign service">
+      <h2 id="h-ship">Printed in the US, just for you.</h2>
+      <ul class="legend">
+        <li>
+          <svg viewBox="0 0 48 48" aria-hidden="true"><path d="M14 18V6h20v12M14 34H8V18h32v16h-6M14 28h20v14H14z"/></svg>
+          <span>We print each sticker after you order.</span>
+        </li>
+        <li>
+          <svg viewBox="0 0 48 48" aria-hidden="true"><path d="M4 12h24v20H4zM28 20h9l7 7v5h-16"/><circle cx="12" cy="35" r="4"/><circle cx="36" cy="35" r="4"/></svg>
+          <span>US shipping usually takes 3 to 7 business days. You see the cost at checkout.</span>
+        </li>
+        <li>
+          <svg viewBox="0 0 48 48" aria-hidden="true"><circle cx="24" cy="24" r="8"/><path d="M24 4v6m0 28v6M4 24h6m28 0h6M10 10l4 4m20 20 4 4m0-28-4 4M14 34l-4 4"/></svg>
+          <span>Matte vinyl with a UV laminate, rated to last over 5 years outdoors.</span>
+        </li>
+      </ul>
+      <div class="returns">
+        <p><b>Damaged or misprinted?</b> Email us a photo within 30 days of delivery. We send a new one or refund you. No need to mail it back.</p>
+        <p>Each sticker is printed to order, so we cannot take back one you changed your mind about.</p>
+      </div>
+    </div>
+  </section>
+
+  <div class="post">
+  <section class="about" aria-labelledby="h-about">
+    <div class="sign attraction">
+      <h2 id="h-about">Car prices are a little absurd.</h2>
+      <p>We make videos about why cars cost what they cost: loans, dealer fees, insurance, the sticker price. These stickers are the jokes that did not fit in the videos.</p>
+      <p>Clean jokes only. No swearing, no politics. Big letters the car behind you can read.</p>
+      <a class="btn btn-light-brown" href="https://www.youtube.com/@WhyPricesDoThat" target="_blank" rel="noopener">
+        Watch the channel
+        <svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><path d="M9 5h10v10M19 5 6 18"/></svg>
+      </a>
+    </div>
+  </section>
+
+  <section class="contact" aria-labelledby="h-q">
+    <div class="sign guide last-exit">
+      <h2 id="h-q">Questions?</h2>
+      <p>Email us at <a href="mailto:mk.studio.desk@gmail.com">mk.studio.desk@gmail.com</a></p>
+      <a class="btn btn-light" href="#money">Back to the stickers
+        <svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 21V6m-6 6 6-6 6 6"/></svg></a>
+    </div>
+  </section>
+  </div>
+</main>
+
+<footer class="foot">
+  <div class="mile" aria-hidden="true"><span>Mile</span><b>0</b></div>
+  <p>© 2026 Why Prices Do That. Checkout, printing and shipping by Printify.</p>
+</footer>
+
+<template id="tpl-item">
+  <li class="item">
+    <a class="art" target="_self"><img src="img/s/30.webp" loading="lazy" width="1200" height="327" alt=""></a>
+    <a class="btn btn-green buy"><span>Buy</span><span aria-hidden="true">·</span><span>$9.99</span></a>
+  </li>
+</template>
+
+<script src="data.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
