@@ -6,7 +6,7 @@ window.PRODUCTS = [
   "title": "New Driver Please Be Patient",
   "exit": "family",
   "custom": false,
-  "url": null
+  "url": "https://why-prices-do-that.printify.me/product/34563287"
  },
  {
   "num": "2",
@@ -14,7 +14,7 @@ window.PRODUCTS = [
   "title": "Student Driver Expect Sudden Stops",
   "exit": "family",
   "custom": false,
-  "url": null
+  "url": "https://why-prices-do-that.printify.me/product/34563394"
  },
  {
   "num": "3",
@@ -22,7 +22,7 @@ window.PRODUCTS = [
   "title": "New Driver Doing My Best",
   "exit": "family",
   "custom": false,
-  "url": null
+  "url": "https://why-prices-do-that.printify.me/product/34563400"
  },
  {
   "num": "4",
@@ -30,7 +30,7 @@ window.PRODUCTS = [
   "title": "Tiny Human On Board",
   "exit": "family",
   "custom": false,
-  "url": null
+  "url": "https://why-prices-do-that.printify.me/product/34563403"
  },
  {
   "num": "5",
@@ -38,7 +38,7 @@ window.PRODUCTS = [
   "title": "Cargo 2 Kids 1 Dog 47 Crumbs",
   "exit": "family",
   "custom": false,
-  "url": null
+  "url": "https://why-prices-do-that.printify.me/product/34563407"
  },
  {
   "num": "6",
@@ -46,7 +46,7 @@ window.PRODUCTS = [
   "title": "Dog On Board He's the Navigator",
   "exit": "family",
   "custom": false,
-  "url": null
+  "url": "https://why-prices-do-that.printify.me/product/34563409"
  },
  {
   "num": "7",
@@ -54,7 +54,7 @@ window.PRODUCTS = [
   "title": "Just Married Still Paying for the Wedding",
   "exit": "money",
   "custom": false,
-  "url": null
+  "url": "https://why-prices-do-that.printify.me/product/34563413"
  },
  {
   "num": "8",
@@ -62,7 +62,7 @@ window.PRODUCTS = [
   "title": "Paid Off This Car Is Finally Mine",
   "exit": "money",
   "custom": false,
-  "url": null
+  "url": "https://why-prices-do-that.printify.me/product/34563416"
  },
  {
   "num": "9",
@@ -70,7 +70,7 @@ window.PRODUCTS = [
   "title": "First Car First Car Payment",
   "exit": "money",
   "custom": false,
-  "url": null
+  "url": "https://why-prices-do-that.printify.me/product/34563421"
  },
  {
   "num": "10",
@@ -78,7 +78,7 @@ window.PRODUCTS = [
   "title": "Proud Owner of a Car That Starts Most Mornings",
   "exit": "road",
   "custom": false,
-  "url": null
+  "url": "https://why-prices-do-that.printify.me/product/34563426"
  },
  {
   "num": "11",
@@ -86,7 +86,7 @@ window.PRODUCTS = [
   "title": "Runs on Gas and Optimism",
   "exit": "road",
   "custom": false,
-  "url": null
+  "url": "https://why-prices-do-that.printify.me/product/34563429"
  },
  {
   "num": "12",
@@ -94,7 +94,7 @@ window.PRODUCTS = [
   "title": "Honk If You're Also Running Late",
   "exit": "road",
   "custom": false,
-  "url": null
+  "url": "https://why-prices-do-that.printify.me/product/34563433"
  },
  {
   "num": "13",
@@ -102,7 +102,7 @@ window.PRODUCTS = [
   "title": "Just Graduated Still Paying for It",
   "exit": "money",
   "custom": false,
-  "url": null
+  "url": "https://why-prices-do-that.printify.me/product/34563436"
  },
  {
   "num": "14",
@@ -110,7 +110,7 @@ window.PRODUCTS = [
   "title": "Road Trip No We're Not There Yet",
   "exit": "family",
   "custom": false,
-  "url": null
+  "url": "https://why-prices-do-that.printify.me/product/34563437"
  },
  {
   "num": "15",
@@ -118,7 +118,7 @@ window.PRODUCTS = [
   "title": "Caution I Sing at Red Lights",
   "exit": "road",
   "custom": false,
-  "url": null
+  "url": "https://why-prices-do-that.printify.me/product/34563441"
  },
  {
   "num": "16",
@@ -126,7 +126,7 @@ window.PRODUCTS = [
   "title": "Warning Driver Is Arguing with the GPS",
   "exit": "road",
   "custom": false,
-  "url": null
+  "url": "https://why-prices-do-that.printify.me/product/34563447"
  },
  {
   "num": "17",
@@ -134,7 +134,7 @@ window.PRODUCTS = [
   "title": "If You Can Read This I'm Probably Lost",
   "exit": "road",
   "custom": false,
-  "url": null
+  "url": "https://why-prices-do-that.printify.me/product/34563451"
  },
  {
   "num": "18",
@@ -142,7 +142,7 @@ window.PRODUCTS = [
   "title": "Caution Will Brake to Pet Dogs",
   "exit": "road",
   "custom": false,
-  "url": null
+  "url": "https://why-prices-do-that.printify.me/product/34563454"
  },
  {
   "num": "19",
@@ -150,7 +150,7 @@ window.PRODUCTS = [
   "title": "Caution Fries on the Floor Since 2019",
   "exit": "road",
   "custom": false,
-  "url": null
+  "url": "https://why-prices-do-that.printify.me/product/34563459"
  },
  {
   "num": "20",
@@ -158,7 +158,7 @@ window.PRODUCTS = [
   "title": "Check Engine Light Decorative",
   "exit": "road",
   "custom": false,
-  "url": null
+  "url": "https://why-prices-do-that.printify.me/product/34563462"
  },
  {
   "num": "21",
@@ -166,7 +166,7 @@ window.PRODUCTS = [
   "title": "3 Speeds Slow Slower Parked",
   "exit": "road",
   "custom": false,
-  "url": null
+  "url": "https://why-prices-do-that.printify.me/product/34563465"
  },
  {
   "num": "22",
@@ -174,7 +174,7 @@ window.PRODUCTS = [
   "title": "Parallel Parking May Take Several Tries",
   "exit": "road",
   "custom": false,
-  "url": null
+  "url": "https://why-prices-do-that.printify.me/product/34563470"
  },
  {
   "num": "23",
@@ -182,7 +182,7 @@ window.PRODUCTS = [
   "title": "Held Together by Hope and One Zip Tie",
   "exit": "road",
   "custom": false,
-  "url": null
+  "url": "https://why-prices-do-that.printify.me/product/34563475"
  },
  {
   "num": "24",
@@ -190,7 +190,7 @@ window.PRODUCTS = [
   "title": "Tailgate All You Want This Is My Top Speed",
   "exit": "road",
   "custom": false,
-  "url": null
+  "url": "https://why-prices-do-that.printify.me/product/34563478"
  },
  {
   "num": "25",
@@ -198,7 +198,7 @@ window.PRODUCTS = [
   "title": "Any Closer and We Split the Car Payment",
   "exit": "money",
   "custom": false,
-  "url": null
+  "url": "https://why-prices-do-that.printify.me/product/34563483"
  },
  {
   "num": "26",
@@ -206,7 +206,7 @@ window.PRODUCTS = [
   "title": "15 Years Old 100% Paid For",
   "exit": "money",
   "custom": false,
-  "url": null
+  "url": "https://why-prices-do-that.printify.me/product/34563485"
  },
  {
   "num": "27",
@@ -214,7 +214,7 @@ window.PRODUCTS = [
   "title": "Monthly Payment Yes",
   "exit": "money",
   "custom": false,
-  "url": null
+  "url": "https://why-prices-do-that.printify.me/product/34563488"
  },
  {
   "num": "28",
@@ -222,7 +222,7 @@ window.PRODUCTS = [
   "title": "0% APR Not for Me",
   "exit": "money",
   "custom": false,
-  "url": null
+  "url": "https://why-prices-do-that.printify.me/product/34563502"
  },
  {
   "num": "29",
@@ -230,7 +230,7 @@ window.PRODUCTS = [
   "title": "Fully Loaded So Was the Price",
   "exit": "money",
   "custom": false,
-  "url": null
+  "url": "https://why-prices-do-that.printify.me/product/34563506"
  },
  {
   "num": "30",
@@ -238,7 +238,7 @@ window.PRODUCTS = [
   "title": "84 Months Left Please Don't Hit Me",
   "exit": "money",
   "custom": false,
-  "url": null
+  "url": "https://why-prices-do-that.printify.me/product/34563518"
  },
  {
   "num": "31",
@@ -246,7 +246,7 @@ window.PRODUCTS = [
   "title": "Yes I Know About My Car's Extended Warranty",
   "exit": "money",
   "custom": false,
-  "url": null
+  "url": "https://why-prices-do-that.printify.me/product/34563523"
  },
  {
   "num": "32",
@@ -254,7 +254,7 @@ window.PRODUCTS = [
   "title": "Out the Door Price Still Waiting",
   "exit": "money",
   "custom": false,
-  "url": null
+  "url": "https://why-prices-do-that.printify.me/product/34563528"
  },
  {
   "num": "33",
@@ -262,7 +262,7 @@ window.PRODUCTS = [
   "title": "Warning Driver Just Opened the Insurance Bill",
   "exit": "money",
   "custom": false,
-  "url": null
+  "url": "https://why-prices-do-that.printify.me/product/34563533"
  },
  {
   "num": "34",
@@ -270,7 +270,7 @@ window.PRODUCTS = [
   "title": "My Other Car Is Also a Payment",
   "exit": "money",
   "custom": false,
-  "url": null
+  "url": "https://why-prices-do-that.printify.me/product/34563535"
  },
  {
   "num": "35",
@@ -278,7 +278,7 @@ window.PRODUCTS = [
   "title": "Dealer Add-Ons I Said No 6 Times",
   "exit": "money",
   "custom": false,
-  "url": null
+  "url": "https://why-prices-do-that.printify.me/product/34563539"
  },
  {
   "num": "36",
@@ -286,7 +286,7 @@ window.PRODUCTS = [
   "title": "Tank Empty Wallet Also Empty",
   "exit": "money",
   "custom": false,
-  "url": null
+  "url": "https://why-prices-do-that.printify.me/product/34563549"
  },
  {
   "num": "37",
@@ -294,7 +294,7 @@ window.PRODUCTS = [
   "title": "Orange Cones Our State Flower",
   "exit": "road",
   "custom": false,
-  "url": null
+  "url": "https://why-prices-do-that.printify.me/product/34563553"
  },
  {
   "num": "38",
@@ -302,7 +302,7 @@ window.PRODUCTS = [
   "title": "Road Work Ahead Since 2014",
   "exit": "road",
   "custom": false,
-  "url": null
+  "url": "https://why-prices-do-that.printify.me/product/34563557"
  },
  {
   "num": "39",
@@ -310,7 +310,7 @@ window.PRODUCTS = [
   "title": "Caution Pothole Dodging in Progress",
   "exit": "road",
   "custom": false,
-  "url": null
+  "url": "https://why-prices-do-that.printify.me/product/34563561"
  },
  {
   "num": "40",
@@ -318,7 +318,7 @@ window.PRODUCTS = [
   "title": "Pothole Season Month 12 of 12",
   "exit": "road",
   "custom": false,
-  "url": null
+  "url": "https://why-prices-do-that.printify.me/product/34563564"
  },
  {
   "num": "41",
@@ -326,7 +326,7 @@ window.PRODUCTS = [
   "title": "My Registration Sticker Cost More Than This One",
   "exit": "money",
   "custom": false,
-  "url": null
+  "url": "https://why-prices-do-that.printify.me/product/34563570"
  },
  {
   "num": "42",
@@ -334,7 +334,7 @@ window.PRODUCTS = [
   "title": "I Survived the DMV Now Serving 487",
   "exit": "road",
   "custom": false,
-  "url": null
+  "url": "https://why-prices-do-that.printify.me/product/34563576"
  },
  {
   "num": "43",
@@ -342,7 +342,7 @@ window.PRODUCTS = [
   "title": "Merge Like a Zipper Not Like a Contest",
   "exit": "road",
   "custom": false,
-  "url": null
+  "url": "https://why-prices-do-that.printify.me/product/34563579"
  },
  {
   "num": "44",
@@ -350,7 +350,7 @@ window.PRODUCTS = [
   "title": "Posted 65 MPH Actual 4 MPH",
   "exit": "road",
   "custom": false,
-  "url": null
+  "url": "https://why-prices-do-that.printify.me/product/34563583"
  },
  {
   "num": "45",
@@ -358,7 +358,7 @@ window.PRODUCTS = [
   "title": "Toll Road I Paid to Sit Here",
   "exit": "road",
   "custom": false,
-  "url": null
+  "url": "https://why-prices-do-that.printify.me/product/34563587"
  },
  {
   "num": "46",
@@ -366,7 +366,7 @@ window.PRODUCTS = [
   "title": "Four-Way Stop After You No After You",
   "exit": "road",
   "custom": false,
-  "url": null
+  "url": "https://why-prices-do-that.printify.me/product/34563591"
  },
  {
   "num": "47",
@@ -374,7 +374,7 @@ window.PRODUCTS = [
   "title": "Turn Signal Standard Equipment",
   "exit": "road",
   "custom": false,
-  "url": null
+  "url": "https://why-prices-do-that.printify.me/product/34563593"
  },
  {
   "num": "48",
@@ -382,7 +382,7 @@ window.PRODUCTS = [
   "title": "I Check Gas Prices Like Stock Prices",
   "exit": "money",
   "custom": false,
-  "url": null
+  "url": "https://why-prices-do-that.printify.me/product/34563595"
  },
  {
   "num": "49",
@@ -390,7 +390,7 @@ window.PRODUCTS = [
   "title": "I'm Not Slow I'm Saving Gas",
   "exit": "road",
   "custom": false,
-  "url": null
+  "url": "https://why-prices-do-that.printify.me/product/34563599"
  },
  {
   "num": "50",
@@ -398,7 +398,7 @@ window.PRODUCTS = [
   "title": "Left Lane for Passing Not for Thinking",
   "exit": "road",
   "custom": false,
-  "url": null
+  "url": "https://why-prices-do-that.printify.me/product/34563605"
  },
  {
   "num": "51",
@@ -406,7 +406,7 @@ window.PRODUCTS = [
   "title": "Tax Title Fees the Car Was the Easy Part",
   "exit": "money",
   "custom": false,
-  "url": null
+  "url": "https://why-prices-do-that.printify.me/product/34563606"
  },
  {
   "num": "52",
@@ -414,7 +414,7 @@ window.PRODUCTS = [
   "title": "Speed Bump Ahead It's Me",
   "exit": "road",
   "custom": false,
-  "url": null
+  "url": "https://why-prices-do-that.printify.me/product/34563610"
  },
  {
   "num": "V1",
@@ -422,7 +422,7 @@ window.PRODUCTS = [
   "title": "The Fed Cut Rates Nobody Told My Car Loan",
   "exit": "money",
   "custom": false,
-  "url": null
+  "url": "https://why-prices-do-that.printify.me/product/34563615"
  },
  {
   "num": "V2",
@@ -430,7 +430,7 @@ window.PRODUCTS = [
   "title": "I Survived the Finance Office",
   "exit": "money",
   "custom": false,
-  "url": null
+  "url": "https://why-prices-do-that.printify.me/product/34563622"
  },
  {
   "num": "V3",
@@ -438,15 +438,7 @@ window.PRODUCTS = [
   "title": "Clean Record Bill Went Up Anyway",
   "exit": "money",
   "custom": false,
-  "url": null
- },
- {
-  "num": "V4",
-  "id": "6afb66f38d7ff39095022da6",
-  "title": "Officially Cheaper Than in 2000 Doesn't Feel Like It",
-  "exit": "money",
-  "custom": false,
-  "url": null
+  "url": "https://why-prices-do-that.printify.me/product/34563624"
  },
  {
   "num": "V5",
@@ -454,7 +446,7 @@ window.PRODUCTS = [
   "title": "MSRP Mostly a Suggestion",
   "exit": "money",
   "custom": false,
-  "url": null
+  "url": "https://why-prices-do-that.printify.me/product/34563625"
  },
  {
   "num": "53",
@@ -462,7 +454,7 @@ window.PRODUCTS = [
   "title": "Caution: Your Text Here",
   "exit": "custom",
   "custom": true,
-  "url": null
+  "url": "https://why-prices-do-that.printify.me/product/34563628"
  },
  {
   "num": "56",
@@ -470,7 +462,7 @@ window.PRODUCTS = [
   "title": "Property of Your Name and the Bank",
   "exit": "custom",
   "custom": true,
-  "url": null
+  "url": "https://why-prices-do-that.printify.me/product/34563631"
  }
 ];
 window.HERO = {"box": {"x": 34.2, "y": 49.10394265232975, "w": 32.4, "h": 15.770609318996415}, "rotation": ["V1", "30", "25", "35", "27", "V5", "33", "41"], "ar": 1.7921};
