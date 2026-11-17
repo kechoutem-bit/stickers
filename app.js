@@ -1,5 +1,5 @@
 // Store home page: fills the exit grids from data.js and runs the sticker swap on the car photo.
-const STORE = "https://why-prices-do-that.printify.me";
+const STORE = "https://shop.whypricesdothat.com";
 const P = window.PRODUCTS;
 const byNum = Object.fromEntries(P.map(p => [p.num, p]));
 const buyUrl = p => p.url || `${STORE}/products`;
